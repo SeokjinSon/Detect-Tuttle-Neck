@@ -1,3 +1,3 @@
 # Simple Detecting Tuttle Neck
 
-## ***1. 설명***
+## **1. 설명**
