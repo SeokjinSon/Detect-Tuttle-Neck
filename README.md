@@ -14,4 +14,4 @@
 4). tensorflow 2.4.1
 
 ## **3. 참고**
-+ fefef
++ https://ai-creator.tistory.com/76
