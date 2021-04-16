@@ -12,3 +12,6 @@
 3). opencv 4.5.1
 
 4). tensorflow 2.4.1
+
+## **3. 참고**
++ fefef
