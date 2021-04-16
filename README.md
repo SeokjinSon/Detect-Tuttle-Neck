@@ -6,7 +6,9 @@
 
 ## **2. 사용 도구**
 1). Google Teachable Machine
-2). Python 3.7.3
-3). opencv 4.5.1
-4). tensorflow 2.4.1
 
+2). Python 3.7.3
+
+3). opencv 4.5.1
+
+4). tensorflow 2.4.1
